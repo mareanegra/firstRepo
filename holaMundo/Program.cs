@@ -7,6 +7,7 @@ namespace ProGitForProgrammers
 		static void Main(String[] args)
 		{
 			Console.WriteLine("Hello World!");
+			Console.WriteLine("I just added this in Bloc de Notas");
 		}
 	}
 }
